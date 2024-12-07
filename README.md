@@ -1,5 +1,5 @@
 # CS50's Introduction to Computer Science
-![CS50Certificate!](certificate.png)
+![CS50Certificate!](Certificate.png)
 
 ## CS50x - 2024
 
