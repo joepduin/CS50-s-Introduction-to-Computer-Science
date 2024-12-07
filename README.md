@@ -3,7 +3,7 @@
 
 ## CS50x - 2024
 
-[General Information](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science))
+[General Information](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
 
 [CS50: Introduction to Computer Science](https://cs50.harvard.edu/x/2024/)
 
