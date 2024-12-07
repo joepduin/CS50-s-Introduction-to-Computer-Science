@@ -1,14 +1,13 @@
+# CS50's Introduction to Computer Science
 ![CS50Certificate!](certificate.png)
 
-# CS50x - 2024
+## CS50x - 2024
 
-[General Information](https://pll.harvard.edu/course/cs50-introduction-computer-science)
+[General Information](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science))
 
-[CS50: Introduction to Computer Science](https://cs50.harvard.edu/x/2023/)
+[CS50: Introduction to Computer Science](https://cs50.harvard.edu/x/2024/)
 
-[CS50 Certificate](https://cs50.harvard.edu/x/2023/certificate/)
-
-![first!](https://www.classcentral.com/report/wp-content/uploads/2022/05/cs50-2023-student-demo.png)
+[CS50 Certificate](https://cs50.harvard.edu/x/2024/certificate/)
 
 ## Course description
 This is CS50x , Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for majors and non-majors alike, with or without prior programming experience. An entry-level course taught by David J. Malan, CS50x teaches students how to think algorithmically and solve problems efficiently. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. The on-campus version of CS50x , CS50, is Harvard's largest course. 
